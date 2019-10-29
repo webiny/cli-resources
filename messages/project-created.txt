@@ -4,3 +4,6 @@ If this is your first Webiny project, or maybe you simply forgot what to do next
 In case of any issues, suggestions or feedback, get in touch via 🔗 https://github.com/webiny/webiny-js/issues
 
 Happy coding!! 🚀
+
+P.S.
+🎁 We have some SWAG to give away, visit 🔗 https://www.webiny.com/swag for more details.
