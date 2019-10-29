@@ -1,0 +1,10 @@
+.idea
+.env*
+.npmrc
+htpasswd
+node_modules
+.DS_Store
+yarn-error.log
+dist/
+lib/
+build/
